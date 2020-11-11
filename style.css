@@ -1,0 +1,96 @@
+.pw-main{
+    background-color:#a6a6a6;
+    margin-right:20px;
+}
+.pw-main input{
+    padding:8px;
+    width:80%;
+}
+.pw-main input:focus{
+    text-align:center;
+}
+h2{
+    color: rgb(31, 147, 255);
+}
+
+#btnn-1{
+    margin:6px;
+    padding:6px;
+    background-color: rgb(40, 219, 64);
+    border:0;
+    border-radius:4px;
+    color:white;
+}
+#btnn-1:hover{
+    opacity:0.5;
+}
+#btnn-2{
+    margin:6px;
+    padding:6px;
+    background-color: rgb(69, 164, 253);
+    border:0;
+    border-radius:4px;
+    color:white;
+}
+#btnn-2:hover{
+    opacity:0.5;
+}
+#btnn-3{
+    margin:6px;
+    padding:6px;
+    background-color: rgb(219, 33, 64);
+    border:0;
+    border-radius:4px;
+    color:white;
+}
+#btnn-3:hover{
+    opacity:0.5;
+}
+#btnn-4{
+    margin:6px;
+    padding:6px;
+    background-color: rgb(226, 158, 31);
+    border:0;
+    border-radius:4px;
+    color:white;
+}
+#btnn-4:hover{
+    opacity:0.5;
+}
+.create-user{
+    /* background-color:#c9c8c8; */
+    padding:20px;
+    margin-right:20px;
+}
+.create-user input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+    padding: 10px;
+}
+.create-user input:focus{
+    text-align:center;
+}
+.create-user input[type=submit]{
+    padding:10px;
+    background-color: rgb(69, 164, 253);
+    border:0;
+    border-radius:6px;
+    font-weight:bold;
+    color:#FFFFFF;
+}
+.create-user input[type=submit]:hover{
+    opacity:0.5;
+}
+.create-user h3{
+    text-align:center;
+}
+.us-data{
+    background-color: #6e6e6e;
+    border:2px solid white;
+    padding:12px;
+    margin-top:10px;
+    margin-right:20px;
+    color:white; 
+}
